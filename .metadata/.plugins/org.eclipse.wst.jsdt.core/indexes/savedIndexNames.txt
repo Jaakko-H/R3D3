@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+M:\Kansio.main\Kevät 2015\R3D3\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+76519105.index
+3732052244.index
+4154992289.index
+659292569.index
+4005284224.index

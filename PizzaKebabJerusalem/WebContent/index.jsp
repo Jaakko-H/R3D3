@@ -45,7 +45,7 @@
 	<!-- yhteystiedot yms.-->
 	<div class="oikea"></div>
 
-	<p></p>
+	<p>  aa a aaa aa </p>
 
 
 
