@@ -1,0 +1,92 @@
+//Tähän tulee css
+
+header{
+
+	position:absolute;
+	border-left:50%;
+	border-right:50%;
+	text-align:center;
+	float:center;
+	text-align: center;
+}
+
+body{
+
+	background-color:#ffffff;
+	font-family: Courier;
+	font-size: 15px;
+
+}
+
+#ostoskori{
+
+	positon:absolute;
+	top:5px;
+	right:5px;
+
+}
+
+
+.vasen{
+
+	float:left;
+	position: absolute;
+	display:inline;
+	border:2px solid black;
+	border-radius:100%;
+	opacity: 0.6;
+	top:50%;
+
+}
+
+#menu{
+
+	border-bottom:20px;
+	text-align: center;
+}
+
+
+#juomat{
+
+	text-align: center;
+}
+
+
+.keski{
+
+	float:center;
+	border-bottom:300px;
+	margin:1 auto;
+    width:450px; 
+    padding-bottom:600px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #D6C2AD;
+}
+
+.oikea{
+
+	position:absolute;
+	top:200px;
+	right:10px;
+	padding-bottom:500px;
+	margin:0 auto;
+	width:150px;
+	padding:10px;
+	border:1px solid black;
+
+}
+
+footer {
+
+	border-left:50%;
+	border-right:50%;
+	border-bottom:-10px;
+	border-top: px;
+	clear:both;
+	text-decoration:none;
+	text-align: center;
+	color:black;
+
+}
+
